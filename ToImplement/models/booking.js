@@ -5,7 +5,7 @@ const bookingSchema = new mongoose.Schema({
   eventId: { type: String, index: true },
   paymentStatus: {
     type: String,
-    enum: ["Active", "Canceled", "Paid"],
+    enum: ["HalfPrice", "Canceled", "Paid"],
     required: true
   },
    status: {
