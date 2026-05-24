@@ -44,7 +44,7 @@ Help a Tour Guide to manage his schedule and manage the audience payment for the
 
 ## Plan Management
 ### Milestones
-- CRUD for Events
-- CRUD Join an Event (Booking)
-- Authentication using Email
-- Authenticatication using Facebook and Google
+- CRUD for Events - May 26
+- CRUD Join an Event (Booking) - May 26
+- Authentication to CRUD Events - May 30
+- Publish app Jun 5
